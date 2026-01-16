@@ -1,4 +1,4 @@
-package com.ittopdogs.certicoach.controller;
+package com.ittopdogs.certicoach.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

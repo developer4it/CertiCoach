@@ -1,7 +1,7 @@
 package com.ittopdogs.certicoach.controller;
 
 
-import com.ittopdogs.certicoach.controller.HelloController;
+import com.ittopdogs.certicoach.configuration.TestSecurityConfig;
 import com.ittopdogs.certicoach.provider.HelloMessageProvider;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
